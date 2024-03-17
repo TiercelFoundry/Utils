@@ -4,4 +4,7 @@ A collection of utilities assembled over time via gamedev. I make no guarantees 
 
 Includes standard extension methods and Godot-specific extension methods.
 
-This package is best used as a git submodule.
+This package is best used as a git submodule. Add it to your project and then simply use the relevant `using` statement:
+
+- `TiercelFoundry.StdUtils`
+- `TiercelFoundry.GodotUtils`
