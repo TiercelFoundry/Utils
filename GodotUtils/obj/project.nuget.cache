@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "upcSq0yrSSxvSDZ8zy9mrA5DOvJJ60xeqRKKGn/clrr2bfCjh92ISj6ak7rSFw60+KO+inzcaKoMraK1+VOsiA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Utils\\GodotUtils\\GodotUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wattg\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

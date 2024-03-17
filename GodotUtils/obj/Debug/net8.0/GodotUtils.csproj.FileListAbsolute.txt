@@ -1,0 +1,12 @@
+C:\code\Utils\GodotUtils\bin\Debug\net8.0\GodotUtils.deps.json
+C:\code\Utils\GodotUtils\bin\Debug\net8.0\GodotUtils.dll
+C:\code\Utils\GodotUtils\bin\Debug\net8.0\GodotUtils.pdb
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.csproj.AssemblyReference.cache
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.AssemblyInfoInputs.cache
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.AssemblyInfo.cs
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.csproj.CoreCompileInputs.cache
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.dll
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\refint\GodotUtils.dll
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\GodotUtils.pdb
+C:\code\Utils\GodotUtils\obj\Debug\net8.0\ref\GodotUtils.dll

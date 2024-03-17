@@ -1,0 +1,11 @@
+C:\code\Utils\StdUtils\bin\Debug\net7.0\StdUtils.deps.json
+C:\code\Utils\StdUtils\bin\Debug\net7.0\StdUtils.dll
+C:\code\Utils\StdUtils\bin\Debug\net7.0\StdUtils.pdb
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.AssemblyInfoInputs.cache
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.AssemblyInfo.cs
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.csproj.CoreCompileInputs.cache
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.dll
+C:\code\Utils\StdUtils\obj\Debug\net7.0\refint\StdUtils.dll
+C:\code\Utils\StdUtils\obj\Debug\net7.0\StdUtils.pdb
+C:\code\Utils\StdUtils\obj\Debug\net7.0\ref\StdUtils.dll

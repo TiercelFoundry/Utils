@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Utils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E49FE-4F69-4FE5-A8C1-005FCB8D05F0}|GodotUtils\\GodotUtils.csproj|c:\\code\\utils\\godotutils\\nodeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E49FE-4F69-4FE5-A8C1-005FCB8D05F0}|GodotUtils\\GodotUtils.csproj|solutionrelative:godotutils\\nodeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66812F-0129-4915-AAE1-FD48AAB20D9E}|StdUtils\\StdUtils.csproj|c:\\code\\utils\\stdutils\\stdutils.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3B66812F-0129-4915-AAE1-FD48AAB20D9E}|StdUtils\\StdUtils.csproj|solutionrelative:stdutils\\stdutils.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E49FE-4F69-4FE5-A8C1-005FCB8D05F0}|GodotUtils\\GodotUtils.csproj|c:\\code\\utils\\godotutils\\vectorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E49FE-4F69-4FE5-A8C1-005FCB8D05F0}|GodotUtils\\GodotUtils.csproj|solutionrelative:godotutils\\vectorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66812F-0129-4915-AAE1-FD48AAB20D9E}|StdUtils\\StdUtils.csproj|c:\\code\\utils\\stdutils\\ilistextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66812F-0129-4915-AAE1-FD48AAB20D9E}|StdUtils\\StdUtils.csproj|solutionrelative:stdutils\\ilistextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StdUtils",
+              "DocumentMoniker": "C:\\code\\Utils\\StdUtils\\StdUtils.csproj",
+              "RelativeDocumentMoniker": "StdUtils\\StdUtils.csproj",
+              "ToolTip": "C:\\code\\Utils\\StdUtils\\StdUtils.csproj",
+              "RelativeToolTip": "StdUtils\\StdUtils.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T22:16:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorExtensions.cs",
+              "DocumentMoniker": "C:\\code\\Utils\\GodotUtils\\VectorExtensions.cs",
+              "RelativeDocumentMoniker": "GodotUtils\\VectorExtensions.cs",
+              "ToolTip": "C:\\code\\Utils\\GodotUtils\\VectorExtensions.cs",
+              "RelativeToolTip": "GodotUtils\\VectorExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:00:59.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListExtensions.cs",
+              "DocumentMoniker": "C:\\code\\Utils\\StdUtils\\IListExtensions.cs",
+              "RelativeDocumentMoniker": "StdUtils\\IListExtensions.cs",
+              "ToolTip": "C:\\code\\Utils\\StdUtils\\IListExtensions.cs",
+              "RelativeToolTip": "StdUtils\\IListExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:18:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NodeExtensions.cs",
+              "DocumentMoniker": "C:\\code\\Utils\\GodotUtils\\NodeExtensions.cs",
+              "RelativeDocumentMoniker": "GodotUtils\\NodeExtensions.cs",
+              "ToolTip": "C:\\code\\Utils\\GodotUtils\\NodeExtensions.cs",
+              "RelativeToolTip": "GodotUtils\\NodeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:12:21.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
